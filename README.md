@@ -4,7 +4,6 @@ Part 1: Manual Deployment
 
 **1. Setting Up the GitHub Repository**
     A. Created a new GitHub repository and initialized it with a README file.
-
     B. Wrote a simple "Hello World" web application using Python and Flask:
         1. Initially, the Flask pplication didn’t work because Flask wasn’t installed on my system.
         2. Researched and installed Flask using "pip install flask".
